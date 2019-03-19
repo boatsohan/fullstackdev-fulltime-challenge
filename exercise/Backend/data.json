@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "classs": "btn-secondary",
+            "state": 0
+        },
+        {
+            "classs": "btn-secondary",
+            "state": 0
+        },
+        {
+            "classs": "btn-secondary",
+            "state": 0
+        },
+        {
+            "classs": "btn-danger disabled",
+            "state": 1
+        },
+        {
+            "classs": "btn-danger disabled",
+            "state": 1
+        },
+        {
+            "classs": "btn-danger disabled",
+            "state": 1
+        },
+        {
+            "classs": "btn-danger disabled",
+            "state": 1
+        },
+        {
+            "classs": "btn-danger disabled",
+            "state": 1
+        }
+    ]
+}
